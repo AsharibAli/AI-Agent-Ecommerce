@@ -81,3 +81,6 @@ The project consists of the following components:
    streamlit run web_site.py   
    ```
 5. Launch UI at :  http://localhost:8501/
+
+### Full Tutorial:
+https://ai.plainenglish.io/how-i-built-a-simple-1-person-startup-with-100-ai-e93fdc0a88a4
