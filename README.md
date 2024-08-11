@@ -82,5 +82,5 @@ The project consists of the following components:
    ```
 5. Launch UI at :  http://localhost:8501/
 
-### Full Tutorial:
+### Full Tutorial on Medium:
 https://ai.plainenglish.io/how-i-built-a-simple-1-person-startup-with-100-ai-e93fdc0a88a4
